@@ -1,2 +1,1 @@
-# Welcome!
-Nurul's page for Operating System course.
+# Website Sistem Operasi
