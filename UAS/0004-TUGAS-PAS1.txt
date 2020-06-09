@@ -1,13 +1,13 @@
-Script started on Tue Jun  9 03:45:52 2020
+Script started on Tue Jun  9 07:01:14 2020
 nurul.srianda@badak:~/fileUAS$ PS1="$ "
 $ echo $GitHubUser
 nurulputri
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
 $ eval $PSTAMP
-200609-034621-b895-fileUAS/> 
+200609-070142-97c4-fileUAS/> 
 $ PS1="\$(eval \$PSTAMP)"
-200609-034629-9a05-fileUAS/> echo -e $CEKSAYA
+200609-070150-c9a5-fileUAS/> echo -e $CEKSAYA
 nurulputri ZCZCSCRIPTSTART 200607-115219 nurulputri 
 nurulputri nurulputri 200607-115247-6255-nurul.srianda/ 200607-115247 SEQOK SUMOK 625526a4 
 nurulputri nurulputri 200607-115255-cd46-nurul.srianda/ 200607-115255 SEQOK SUMOK cd46c16b 
@@ -15,7 +15,7 @@ nurulputri nurulputri 200607-115334-c8df-nurul.srianda/ 200607-115334 SEQOK SUMO
 nurulputri nurulputri 200607-115353-8bb4-nurul.srianda/ 200607-115353 SEQOK SUMOK 8bb43e9a 
 nurulputri ZCZCSCRIPTSTOP 200607-115406 SEQOK 
 
-200609-034639-c18f-fileUAS/> echo -e $CEKSEBELA1
+200609-070208-46a5-fileUAS/> echo -e $CEKSEBELA1
 nurulputri ZCZCSCRIPTSTART 200603-214315 nvanonim 
 nurulputri nvanonim 200603-214348-e7d6-alghifari.taufan/ 200603-214348 SEQOK SUMOK e7d606f8 
 nurulputri nvanonim 200603-214354-9031-alghifari.taufan/ 200603-214354 SEQOK SUMOK 90315295 
@@ -23,7 +23,7 @@ nurulputri nvanonim 200603-214356-3d4b-alghifari.taufan/ 200603-214356 SEQOK SUM
 nurulputri nvanonim 200603-214400-4c7d-alghifari.taufan/ 200603-214400 SEQOK SUMOK 4c7dcee6 
 nurulputri ZCZCSCRIPTSTOP 200603-214417 SEQOK 
 
-200609-034646-96bb-fileUAS/> echo -e $CEKSEBELA2
+200609-070216-928b-fileUAS/> echo -e $CEKSEBELA2
 nurulputri ZCZCSCRIPTSTART 200603-231621 PakDengklek 
 nurulputri PakDengklek 200603-231645-9286-alvin.hariman/ 200603-231645 SEQOK SUMOK 928665a8 
 nurulputri PakDengklek 200603-231652-85b3-alvin.hariman/ 200603-231652 SEQOK SUMOK 85b389a8 
@@ -31,7 +31,7 @@ nurulputri PakDengklek 200603-231659-219e-alvin.hariman/ 200603-231659 SEQOK SUM
 nurulputri PakDengklek 200603-231706-30c0-alvin.hariman/ 200603-231706 SEQOK SUMOK 30c03c20 
 nurulputri ZCZCSCRIPTSTOP 200603-231713 SEQOK 
 
-200609-034656-f8b4-fileUAS/> exit
+200609-070224-4118-fileUAS/> exit
 exit
 
-Script done on Tue Jun  9 03:47:00 2020
+Script done on Tue Jun  9 07:02:29 2020
